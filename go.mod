@@ -1,10 +1,10 @@
-module github.com/jiurongzhao/bootstrap-config-apollo
+module github.com/jsmzr/bootstrap-config-apollo
 
 go 1.17
 
 require (
 	github.com/apolloconfig/agollo/v4 v4.0.9
-	github.com/jiurongzhao/bootstrap-global v0.0.1
+	github.com/jsmzr/bootstrap-config v0.0.1
 )
 
 require (

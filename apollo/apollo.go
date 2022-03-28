@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	gc "github.com/jiurongzhao/bootstrap-global/config"
-	"github.com/jiurongzhao/bootstrap-global/util"
+	gc "github.com/jsmzr/bootstrap-config/config"
+	"github.com/jsmzr/bootstrap-config/util"
 
 	av4 "github.com/apolloconfig/agollo/v4"
 	"github.com/apolloconfig/agollo/v4/env/config"
